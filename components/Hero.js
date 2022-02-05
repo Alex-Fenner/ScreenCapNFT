@@ -1,5 +1,5 @@
 import React from 'react';
-import monke from "../assests/m8.png"
+import monke from "../assests/m5.png"
 import Image from 'next/image'
 
 const style = {
@@ -26,10 +26,10 @@ const Hero = () => {
         <div className={style.contentWrapper}>
           <div className={style.copyContainer}>
             <div className={style.title}>
-              Collect, sell and screenshot awful NFTs!
+              Collect, sell and screenshot  NFTs!
             </div>
             <div className={style.description}>
-              Screenshot NFT is the world&apos;s worst and smallest NFT marketplace
+              Screenshot NFT is the world&apos;s best marketplace to steal NFT art
             </div>
             <div className={style.ctaContainer}>
               <button className={style.accentedButton}>Explore</button>
@@ -49,7 +49,7 @@ const Hero = () => {
                 alt=""
               />
               <div className={style.author}>
-                <div className={style.name}>Monke #08</div>
+                <div className={style.name}>Monke #05</div>
                 <a
                   className="text-[#1868b7]"
                   href="https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/2324922113504035910649522729980423429926362207300810036887725141691069366277"
